@@ -3,9 +3,9 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using EndlessCarChase.Types;
+ 
 
-namespace EndlessCarChase
+ 
 {
 	/// <summary>
 	/// This script displays items that can be unlocked with in-game money. Each item has a 3D icon that spins while showing the price of the item if it is still locked. Locked items are also darkened.
