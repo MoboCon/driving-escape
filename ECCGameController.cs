@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using EndlessCarChase.Types;
 
-namespace EndlessCarChase
+
 {
 	/// <summary>
 	/// This script controls the game, starting it, following game progress, and finishing it with game over or victory.
