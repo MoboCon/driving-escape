@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace EndlessCarChase
+
 {
 	/// <summary>
 	/// handles a global music source which carries over from scene to scene without resetting the music track.
