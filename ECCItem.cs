@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace EndlessCarChase
+
 {
     /// <summary>
     /// This script defines an item which can be picked up by the player. An item can be money that the 
